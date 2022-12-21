@@ -170,6 +170,7 @@
   + import {
   +   arbitrum,
   +   arbitrumGoerli,
+  +   gnosis,
   +   polygon,
   +   polygonMumbai,
   +   optimism,
@@ -179,6 +180,7 @@
   + const defaultL2Chains = [
   +  arbitrum,
   +  arbitrumGoerli,
+  +  gnosis,
   +  polygon,
   +  polygonMumbai,
   +  optimism

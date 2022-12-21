@@ -8,6 +8,7 @@ export {
   fantom,
   fantomTestnet,
   foundry,
+  gnosis,
   goerli,
   hardhat,
   localhost,

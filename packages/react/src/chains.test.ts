@@ -14,6 +14,7 @@ it('should expose correct exports', () => {
       "fantom",
       "fantomTestnet",
       "foundry",
+      "gnosis",
       "goerli",
       "hardhat",
       "localhost",
